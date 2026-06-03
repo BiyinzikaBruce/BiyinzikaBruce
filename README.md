@@ -25,7 +25,7 @@ Self-taught software developer & UI/UX designer. Building fintech and business t
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/BiyinzikaBruce)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/BruceBiyinzika)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/BiyinzikaBruce)
 
 ---
